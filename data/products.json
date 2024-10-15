@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2978f0c5-bf16-4a56-afb1-839e0f67d0ad",
+    "title": "Guantes de boxeo",
+    "description": "Guantes de boxeo Everlast negros 14oz",
+    "code": "HASSPREMIUM",
+    "price": 69.99,
+    "stock": 100,
+    "category": "Mid Class",
+    "status": true
+  },
+  {
+    "id": "cb51561b-43c7-425e-8e68-a7a61b13e0c4",
+    "title": "Canilleras",
+    "description": "Canilleras King Talla L Golden",
+    "code": "HASSMIDCLASS",
+    "price": 86.00,
+    "stock": 200,
+    "category": "Premium",
+    "status": true
+  },
+  {
+    "id": "623d617c",
+    "title": "Protector bucal",
+    "description": "Protector bucal para artes marciales adulto",
+    "code": "HASSLOWCLASS",
+    "price": 12.99,
+    "stock": 140,
+    "category": "Low Class",
+    "status": true
+  }
+]
